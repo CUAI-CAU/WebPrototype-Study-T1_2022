@@ -8,7 +8,7 @@ CUAI 5기 2학기 웹 프로토타입 스터디를 위한 repository입니다.
 이주호(소프트웨어학부) <br>
 
 ## Reference
-점프 투 스프링부트[https://wikidocs.net/book/7601] <br>
+[점프 투 스프링부트](https://wikidocs.net/book/7601) <br>
 
 ## Schedule
 |DATE|CONTENT|
